@@ -1,0 +1,6 @@
+[package]
+name = "linked"
+version = "0.1.0"
+authors = ["Wimpie Victor <wvictor@retrorabbit.co.za>"]
+
+[dependencies]
